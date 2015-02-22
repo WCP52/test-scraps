@@ -62,7 +62,6 @@ LIBS:semi-trans-NXP
 LIBS:semi-trans-PZT
 LIBS:semi-trans-TI
 LIBS:semi-trans-TIP
-LIBS:semi-trans-Toshiba
 LIBS:silabs
 LIBS:skyworks
 LIBS:ST
@@ -79,11 +78,11 @@ EELAYER END
 $Descr USLetter 11000 8500
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
-Comp ""
-Comment1 ""
+Title "Filter Test PCB"
+Date "2015-02-22"
+Rev "A"
+Comp "WCP52"
+Comment1 "Gain/Phase Analyzer"
 Comment2 ""
 Comment3 ""
 Comment4 ""
@@ -560,4 +559,22 @@ F 3 "" H 6000 4900 60  0000 C CNN
 $EndComp
 Wire Wire Line
 	6000 4900 6000 4800
+Wire Notes Line
+	2600 2200 3000 2200
+Wire Notes Line
+	3000 2200 3000 2650
+Wire Notes Line
+	3000 2650 2600 2650
+Wire Notes Line
+	2600 2650 2600 2200
+Wire Notes Line
+	8400 2200 8400 2650
+Wire Notes Line
+	8400 2650 8000 2650
+Wire Notes Line
+	8000 2650 8000 2200
+Wire Notes Line
+	8000 2200 8400 2200
+Text Notes 2600 2200 0    60   ~ 0
+Sever trace to unused filter
 $EndSCHEMATC
