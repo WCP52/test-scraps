@@ -1,0 +1,143 @@
+Cmp-Mod V01 Created by Cvpcb (2015-02-20 BZR 5435)-product   date = Fri 20 Feb 2015 05:59:07 PM EST
+
+BeginCmp
+TimeStamp = /54E7BD99;
+Reference = C1;
+ValeurCmp = 4p7;
+IdModule  = IPC7351-Nominal:CAPC1005X55;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E7BAD1;
+Reference = C2;
+ValeurCmp = 1p5;
+IdModule  = IPC7351-Nominal:CAPC1005X55;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E7BE29;
+Reference = C3;
+ValeurCmp = 4p7;
+IdModule  = IPC7351-Nominal:CAPC1005X55;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E7C10F;
+Reference = C4;
+ValeurCmp = 4p7;
+IdModule  = IPC7351-Nominal:CAPC1005X55;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E7B91C;
+Reference = C5;
+ValeurCmp = 22p;
+IdModule  = IPC7351-Nominal:CAPC1005X55;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E7BA78;
+Reference = C6;
+ValeurCmp = 22p;
+IdModule  = IPC7351-Nominal:CAPC1005X55;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E7BBDA;
+Reference = C7;
+ValeurCmp = 56p;
+IdModule  = IPC7351-Nominal:CAPC1005X55;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E7C029;
+Reference = C8;
+ValeurCmp = 56p;
+IdModule  = IPC7351-Nominal:CAPC1005X55;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E7C16D;
+Reference = C9;
+ValeurCmp = 22p;
+IdModule  = IPC7351-Nominal:CAPC1005X55;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E7C25E;
+Reference = C10;
+ValeurCmp = 18p;
+IdModule  = IPC7351-Nominal:CAPC1005X55;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E7D1D6;
+Reference = C11;
+ValeurCmp = C-0402;
+IdModule  = IPC7351-Nominal:CAPC1005X55;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E7D247;
+Reference = C12;
+ValeurCmp = C-0402;
+IdModule  = IPC7351-Nominal:CAPC1005X55;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E7D288;
+Reference = C13;
+ValeurCmp = C-0402;
+IdModule  = IPC7351-Nominal:CAPC1005X55;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E7B894;
+Reference = J1;
+ValeurCmp = IN;
+IdModule  = conn-linx:CONN-CONSMA001;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E7C39E;
+Reference = J2;
+ValeurCmp = OUT;
+IdModule  = conn-linx:CONN-CONSMA001;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E7C4B7;
+Reference = L1;
+ValeurCmp = 56n;
+IdModule  = IPC7351-Nominal:INDC1005X60;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E7CA3F;
+Reference = L2;
+ValeurCmp = 47n;
+IdModule  = IPC7351-Nominal:INDC1005X60;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E7CB74;
+Reference = L3;
+ValeurCmp = 47n;
+IdModule  = IPC7351-Nominal:INDC1005X60;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E7D2BA;
+Reference = L4;
+ValeurCmp = L-0402;
+IdModule  = IPC7351-Nominal:INDC1005X60;
+EndCmp
+
+BeginCmp
+TimeStamp = /54E7D3CF;
+Reference = L5;
+ValeurCmp = L-0402;
+IdModule  = IPC7351-Nominal:INDC1005X60;
+EndCmp
+
+EndListe

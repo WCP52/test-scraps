@@ -1,0 +1,7 @@
+*-bak
+*.bak
+*.raw
+*.net
+*.log
+*.fft
+*.ps
